@@ -1,6 +1,6 @@
 {
-  "commit": "32f95e99ea832942de295c7e6e56374d8ac21e07",
-  "generated": "Mon, 27 Jan 2025 14:59:52 GMT",
+  "commit": "8c65230d798e65dc0f737e8b8c74ea63bbe02c98",
+  "generated": "2025-01-27T15:20:24.571Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,6 +37,24 @@
       "slug": "what-this",
       "status": "draft",
       "title": "what is this"
+    },
+    {
+      "__outstatic": {
+        "commit": "8c65230d798e65dc0f737e8b8c74ea63bbe02c98",
+        "hash": "889902498",
+        "path": "outstatic/content/new-features/new-feature.md"
+      },
+      "author": {
+        "name": "Akshat jangid",
+        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
+      },
+      "collection": "new-features",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-27T15:44:43.968Z",
+      "slug": "new-feature",
+      "status": "draft",
+      "title": "New feature"
     }
   ]
 }
