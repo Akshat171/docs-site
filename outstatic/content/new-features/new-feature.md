@@ -1,6 +1,6 @@
 ---
 title: 'New feature'
-status: 'draft'
+status: 'published'
 author:
   name: 'Akshat jangid'
   picture: 'https://avatars.githubusercontent.com/u/81281246?v=4'
@@ -9,7 +9,6 @@ description: ''
 coverImage: ''
 publishedAt: '2025-01-27T15:44:43.968Z'
 ---
-
 
 | nknkjn | bjhbjhb |  |
 | --- | --- | --- |
