@@ -1,5 +1,5 @@
 'use client'
-import { getMDXComponent } from 'mdx-bundler/client'
+import { getMDXComponent } from 'mdx-bundler'
 import Image from 'next/image'
 import { useMemo } from 'react'
 import { CustomCode, Pre } from './custom-code'
