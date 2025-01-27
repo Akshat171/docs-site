@@ -1,0 +1,42 @@
+{
+  "commit": "027afa6c540b5249d79e2e9f0b619e0b46c1b35f",
+  "generated": "Mon, 27 Jan 2025 14:41:47 GMT",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "5d8b2f8c715f6d1bdfa601cdc94f6f7e9be10ef5",
+        "hash": "2623834839",
+        "path": "outstatic/content/this-is-test-doc/this-is-test-documentation.md"
+      },
+      "author": {
+        "name": "Akshat jangid",
+        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
+      },
+      "collection": "this-is-test-doc",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-27T15:12:01.207Z",
+      "slug": "this-is-test-documentation",
+      "status": "published",
+      "title": "This is test documentation"
+    },
+    {
+      "__outstatic": {
+        "commit": "b142c8a7695b0b1bde9f2c8935dd7bf51c8ea984",
+        "hash": "3482900168",
+        "path": "outstatic/content/getting-started/what-this.md"
+      },
+      "author": {
+        "name": "Akshat jangid",
+        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
+      },
+      "collection": "getting-started",
+      "coverImage": "/images/parexa-E2Mj.png",
+      "description": "",
+      "publishedAt": "2025-01-27T12:49:28.182Z",
+      "slug": "what-this",
+      "status": "draft",
+      "title": "what is this"
+    }
+  ]
+}
