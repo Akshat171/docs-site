@@ -29,7 +29,6 @@ export const Paragraph = ({ children }: CustomLinkProps) => {
 export const SidebarLink = ({
   children,
   href,
-  openNewTab,
   className = '',
   ...rest
 }: CustomLinkProps) => {
