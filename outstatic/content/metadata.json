@@ -1,25 +1,7 @@
 {
-  "commit": "93687844435afe0c61ca10fdf36b98f92faf6b67",
-  "generated": "Mon, 27 Jan 2025 16:12:42 GMT",
+  "commit": "399f71466b816430b97d40e7324062393e62ffee",
+  "generated": "Mon, 27 Jan 2025 16:14:05 GMT",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "7326dc099093315019fc1344877b3824c4c19178",
-        "hash": "889902498",
-        "path": "outstatic/content/new-features/new-feature.md"
-      },
-      "author": {
-        "name": "Akshat jangid",
-        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
-      },
-      "collection": "new-features",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-27T15:44:43.968Z",
-      "slug": "new-feature",
-      "status": "draft",
-      "title": "New feature"
-    },
     {
       "__outstatic": {
         "commit": "d3c19580ee646fd2bad4055923932f5b75923cd2",
@@ -37,6 +19,24 @@
       "slug": "this-is-test-documentation",
       "status": "published",
       "title": "This is test documentation"
+    },
+    {
+      "__outstatic": {
+        "commit": "7326dc099093315019fc1344877b3824c4c19178",
+        "hash": "2232355252",
+        "path": "outstatic/content/new-features/new-feature.md"
+      },
+      "author": {
+        "name": "Akshat jangid",
+        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
+      },
+      "collection": "new-features",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-27T15:44:43.968Z",
+      "slug": "new-feature",
+      "status": "published",
+      "title": "New feature"
     },
     {
       "__outstatic": {
