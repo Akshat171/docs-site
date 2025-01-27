@@ -1,7 +1,25 @@
 {
-  "commit": "d916e1ea3c73b45fa3199224435774b3c6447378",
-  "generated": "2025-01-27T14:52:04.663Z",
+  "commit": "479a36250f3b59df4475783ef9ba2b0be48e1311",
+  "generated": "Mon, 27 Jan 2025 14:56:39 GMT",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "d3c19580ee646fd2bad4055923932f5b75923cd2",
+        "hash": "269130906",
+        "path": "outstatic/content/this-is-test-doc/this-is-test-documentation.md"
+      },
+      "author": {
+        "name": "Akshat jangid",
+        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
+      },
+      "collection": "this-is-test-doc",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-27T15:12:01.207Z",
+      "slug": "this-is-test-documentation",
+      "status": "published",
+      "title": "This is test documentation"
+    },
     {
       "__outstatic": {
         "commit": "b142c8a7695b0b1bde9f2c8935dd7bf51c8ea984",
@@ -19,24 +37,6 @@
       "slug": "what-this",
       "status": "draft",
       "title": "what is this"
-    },
-    {
-      "__outstatic": {
-        "commit": "d916e1ea3c73b45fa3199224435774b3c6447378",
-        "hash": "269130906",
-        "path": "outstatic/content/this-is-test-doc/this-is-test-documentation.md"
-      },
-      "author": {
-        "name": "Akshat jangid",
-        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
-      },
-      "collection": "this-is-test-doc",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-27T15:12:01.207Z",
-      "slug": "this-is-test-documentation",
-      "status": "published",
-      "title": "This is test documentation"
     }
   ]
 }
