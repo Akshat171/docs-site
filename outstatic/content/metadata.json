@@ -1,11 +1,11 @@
 {
-  "commit": "4fbe9ae614f87273331f0b075bb6baf2a50d4903",
-  "generated": "2025-01-28T06:06:04.871Z",
+  "commit": "8726b4fd510479c63a57d7db2c3d1e005357c1e8",
+  "generated": "Tue, 28 Jan 2025 06:06:14 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "038915db4d420a0f06398ace55ad29a5616fef04",
-        "hash": "1599239907",
+        "commit": "d7781b3f9a25f5779c994d5959d978f77c939bab",
+        "hash": "4057021900",
         "path": "outstatic/content/docs/getting-started.md"
       },
       "author": {
@@ -17,12 +17,12 @@
       "description": "",
       "publishedAt": "2025-01-28T06:34:23.361Z",
       "slug": "getting-started",
-      "status": "published",
+      "status": "draft",
       "title": "Getting-started"
     },
     {
       "__outstatic": {
-        "commit": "4fbe9ae614f87273331f0b075bb6baf2a50d4903",
+        "commit": "cda61b85a7b226a5284535c15f6938726adefbe6",
         "hash": "2171106773",
         "path": "outstatic/content/docs/foqs.md"
       },
