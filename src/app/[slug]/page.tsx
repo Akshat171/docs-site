@@ -82,7 +82,7 @@ async function getData({ params }: Params) {
   const db = await load()
 
   const doc = await db
-    .find({ collection: 'docs', slug: params.slug }, [
+    .find({ collection: 'getting-started', slug: params.slug }, [
       'title',
       'publishedAt',
       'slug',
