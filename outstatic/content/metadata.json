@@ -1,6 +1,6 @@
 {
-  "commit": "399f71466b816430b97d40e7324062393e62ffee",
-  "generated": "Mon, 27 Jan 2025 16:14:05 GMT",
+  "commit": "3afeb2e5b7c98518f6e96632d2e4a7b315989ef8",
+  "generated": "2025-01-28T05:54:05.847Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,24 +37,6 @@
       "slug": "new-feature",
       "status": "published",
       "title": "New feature"
-    },
-    {
-      "__outstatic": {
-        "commit": "b142c8a7695b0b1bde9f2c8935dd7bf51c8ea984",
-        "hash": "3482900168",
-        "path": "outstatic/content/getting-started/what-this.md"
-      },
-      "author": {
-        "name": "Akshat jangid",
-        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
-      },
-      "collection": "getting-started",
-      "coverImage": "/images/parexa-E2Mj.png",
-      "description": "",
-      "publishedAt": "2025-01-27T12:49:28.182Z",
-      "slug": "what-this",
-      "status": "draft",
-      "title": "what is this"
     }
   ]
 }
