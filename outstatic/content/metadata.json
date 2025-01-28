@@ -1,24 +1,6 @@
 {
-  "commit": "cc47e6317bfebe6ce62517ba9cecfdb996ddc264",
-  "generated": "2025-01-28T05:54:10.348Z",
+  "commit": "9ff38e9f132ead29d6ec8f0d31330da4559d40b8",
+  "generated": "2025-01-28T05:54:15.478Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "d3c19580ee646fd2bad4055923932f5b75923cd2",
-        "hash": "269130906",
-        "path": "outstatic/content/this-is-test-doc/this-is-test-documentation.md"
-      },
-      "author": {
-        "name": "Akshat jangid",
-        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
-      },
-      "collection": "this-is-test-doc",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2025-01-27T15:12:01.207Z",
-      "slug": "this-is-test-documentation",
-      "status": "published",
-      "title": "This is test documentation"
-    }
   ]
 }
