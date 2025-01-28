@@ -1,6 +1,6 @@
 {
-  "commit": "afcd951cac4131f6476928582273ebcf33165f04",
-  "generated": "2025-01-28T06:02:07.928Z",
+  "commit": "77f54bc874bbd3b81d395967208e631b685f70a9",
+  "generated": "2025-01-28T06:04:20.507Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,6 +19,24 @@
       "slug": "getting-started",
       "status": "draft",
       "title": "Getting-started"
+    },
+    {
+      "__outstatic": {
+        "commit": "77f54bc874bbd3b81d395967208e631b685f70a9",
+        "hash": "2171106773",
+        "path": "outstatic/content/docs/foqs.md"
+      },
+      "author": {
+        "name": "Akshat jangid",
+        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-28T06:36:42.377Z",
+      "slug": "foqs",
+      "status": "published",
+      "title": "foqs"
     }
   ]
 }
