@@ -1,6 +1,6 @@
 ---
 title: 'Getting-started'
-status: 'draft'
+status: 'published'
 author:
   name: 'Akshat jangid'
   picture: 'https://avatars.githubusercontent.com/u/81281246?v=4'
