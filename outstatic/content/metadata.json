@@ -1,6 +1,24 @@
 {
-  "commit": "9ff38e9f132ead29d6ec8f0d31330da4559d40b8",
-  "generated": "2025-01-28T05:54:15.478Z",
+  "commit": "afcd951cac4131f6476928582273ebcf33165f04",
+  "generated": "2025-01-28T06:02:07.928Z",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "afcd951cac4131f6476928582273ebcf33165f04",
+        "hash": "4057021900",
+        "path": "outstatic/content/docs/getting-started.md"
+      },
+      "author": {
+        "name": "Akshat jangid",
+        "picture": "https://avatars.githubusercontent.com/u/81281246?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2025-01-28T06:34:23.361Z",
+      "slug": "getting-started",
+      "status": "draft",
+      "title": "Getting-started"
+    }
   ]
 }
