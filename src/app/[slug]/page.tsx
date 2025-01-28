@@ -23,7 +23,7 @@ export async function generateMetadata(params: Params): Promise<Metadata> {
       title: `${doc.title} - Outstatic`,
       description: doc.description,
       type: 'article',
-      url: `https://outstatic.com/docs/${doc.slug}`,
+      url: `https://docs-site-jade.vercel.app/docs/${doc.slug}`,
       images: [
         {
           url: 'https://outstatic.com/images/og-image.png',
@@ -82,7 +82,7 @@ async function getData({ params }: Params) {
   const db = await load()
 
   const doc = await db
-    .find({ collection: 'getting-started', slug: params.slug }, [
+    .find({ collection: 'docs', slug: params.slug }, [
       'title',
       'publishedAt',
       'slug',
